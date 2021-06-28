@@ -1,6 +1,6 @@
 ---
 date: 2021-06-16
-title: "Project: This is the Descriptive Title of the Example"
+title: "AI in Healthcare"
 linkTitle: Example
 tags: ["project", "reu"]
 description: "Here comes the abstract"
@@ -35,8 +35,8 @@ Contents
 
 Do not include this tip in your document:
 - [ ] Find literature about AI and healthcare disparities
-- [  ] Find literature about AI and COVID-19
-- []  Analyze the literature and explain how data science, ai is better to healthcare.
+- [ ] Find literature about AI and COVID-19
+- [ ] Analyze the literature and explain how data science, ai is better to healthcare.
 
 ## 2. Datasets
 - [ ] Finding datasets in orthodontics
@@ -46,28 +46,6 @@ Do not include this tip in your document:
       However, if the data is publicly available you program must contain a download function instead that you customize.
       Write it using pythons `request`. You will get point deductions if you check-in data sets that are large and do not use
       the download function.
-## 2.1. GitHub Actions
-
-When going to GitHub Actions you will see a report is autmatically generated with some help on improving your markdown. 
-We will not review any document that does not pass this check.
-
-## 2.2. PAst Copy from Word or other Editors is a Disaster!
-
-We recommend that you sue a proper that is integrated with GitHub or you use the commandline tools. We may include 
-comments into your document that you will have to fix, If you juys past copy you will 
-
-1. Not learn how to use GitHub properly and we deduct points
-2. Overwrite our coments that you than may miss and may result in point deductions as you have not addressed them.
-
-## 2.3. Report or Project
-
-You have two choices for the final project. 
-
-1. Project, That is a final report that includes code.
-2. Report, that is a final project without code.
-   
-YOu will be including the type of the project as a prefix to your title, as well as in the Type tag
-at the beginning of your project.
 
 ## 3. Using Images
 - [ ] Place a cool image into projects images in my directory
@@ -83,7 +61,6 @@ at the beginning of your project.
 - [ ] Identify the concrete algorithm that is used to analyze the datasets
 - [ ] Write the program
 - [ ] Verify that it works
-- [ ] 
    
 ## 6. Benchmark
 
@@ -99,7 +76,6 @@ Please add acknowledgments to all that contributed or helped on this project.
 
 ## 9. References
 
-- [ ] 
 - [ ] Your report must include at least 6 references. Please use customary academic citation and not just URLs. As we will at 
       one point automatically change the references from superscript to square brackets it is best to introduce a space before 
       the first square bracket.
