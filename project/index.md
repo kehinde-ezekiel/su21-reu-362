@@ -44,13 +44,10 @@ In this project, the use of machine learning algorithms would be used to develop
       the download function.
 
 ## 3. Using Images
-- [ ] Place a cool image into projects images in my directory
-- [ ] Correct the following link, replace the fa number with my su number and the chart of png
-- [ ] If the image has been copied, I must use a reference as shown in the Figure 1 caption
-- 
-![Figure 1](https://github.com/cybertraining-dsc/fa20-523-314/raw/main/project/images/chart.png)
 
-**Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].\
+![Figure 1](project/images/chart_image.jpg)
+
+**Figure 1:** 
 
 ## 5. Example of an AI algorithm in Healthcare
 - [ ] Identify the concrete datasets that will be used.
