@@ -45,9 +45,9 @@ In this project, the use of machine learning algorithms would be used to develop
 
 ## 3. Using Images
 
-![Figure 1](project/images/chart_image.jpg)
+![Figure 1](https://github.com/kehinde-ezekiel/su21-reu-362/blob/main/project/images/chart_image.jpg)
 
-**Figure 1:** 
+**Figure 1:** Pair plots of Diagnostic Features
 
 ## 5. Example of an AI algorithm in Healthcare
 - [ ] Identify the concrete datasets that will be used.
