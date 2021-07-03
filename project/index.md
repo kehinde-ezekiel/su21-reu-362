@@ -2,7 +2,7 @@
 date: 2021-06-16
 title: "Predicting Breast Cancer using AI Algorithms"
 linkTitle: Example
-tags: ["project", "reu", "healthcare", "cancer", "breast", "meachine learning", "artificial intelligence"]
+tags: ["project", "reu",]
 description: "This project describes two machine learning algorithms -name them- that can be used to predict breast cancer."
 author: Kehinde, Ezekiel
 github_url: https://github.com/cybertraining-dsc/su21-reu-362/edit/main/project/index.md
@@ -30,7 +30,7 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** ai, cancer, breast, algorithms, machine learning.
+**Keywords:** ai, cancer, breast, algorithms, machine learning, healthcare, meachine learning
 ## 1. Introduction
 
 Do not include this tip in your document:
