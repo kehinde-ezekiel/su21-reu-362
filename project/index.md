@@ -63,10 +63,6 @@ Please add acknowledgments to all that contributed or helped on this project.
 
 ## 9. References
 
-- [ ] Your report must include at least 6 references. Please use customary academic citation and not just URLs. As we will at 
-      one point automatically change the references from superscript to square brackets it is best to introduce a space before 
-      the first square bracket.
-
 [^1]: Akram, Muhammad et al. “Awareness and current knowledge of breast cancer.” Biological research vol. 50,1 33. 2 Oct. 2017, doi:10.1186/s40659-017-0140-9
 
 [^2]: Centers for Disease Control and Prevention, Breast Cancer [Online] 
