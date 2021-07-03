@@ -5,8 +5,8 @@ owner:
   hid: "su21-reu-362"
   community: "reu"
   semester: "sp21"
-project:
-  title: TBD
+project: "AI in Healthcare"
+  title: "Predicting Breast Cancer using AI Algorithms"
   url: TBD
   author:
     - su21-reu-362
