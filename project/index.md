@@ -23,12 +23,6 @@ Kehinde Ezekiel, [su21-reu-362](https://github.com/cybertraining-dsc/su21-reu-36
 ## Abstract
 Breast cancer is a form of disease that is caused by the growth of cells in the breast out of proportion. The major forms by which breast cancer can be detected are through. Artificial Intelligence(AI) is a concept or technology that is fast-growing in the medical and healthcare field. It has provided opportunities for the healthcare ecosystem to make quick analysis, observe trends and introduce technological solutions to healthcare problems like diseases. This project employs the use of AI algorithms to predict the presence, growth and development of cancerous cells in breast tissues.
 
-Contents
-
-{{< table_of_contents >}}
-
-{{% /pageinfo %}}
-
 **Keywords:** ai, cancer, breast, algorithms, machine learning, healthcare, meachine learning
 ## 1. Introduction
 Breast cancer is the most common cancer and also the primary cause of mortality due to cancer in female around the World.(1) There are different types of breast cancer. Some are invasive while some are non-invasive breast cancers. Early detection of breast cancer or possible cancerous cells in the breast can increase survival chances and provide a chance for better treatment and management. Proccedures like breast ultrasound, diagnostic mammogram, Magnetic resonance imaging (MRI) and biopsy are used to diagnose breast problems, cancer inclusive(2). These procedures employ the use of AI. However, the branch of AI that would be focused on in this project is Machine Learning Algorithms. Machine Learning (ML) involves programming computers to learn patterns from data in a specific domain by creating mathematical models(3). Algorithms are used to turn dataset into a model. They provide definite operations that tell computers what to do. There are different kinds of algorithms. The two algorithms that would be used in this project are K-Means and Logistsic Regresstion
